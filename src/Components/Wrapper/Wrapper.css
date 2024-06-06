@@ -1,0 +1,149 @@
+.section7 {
+  max-width: 100%;
+  background: #ffffff;
+}
+
+.container {
+  width: 1440px;
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.wrapper {
+  margin-left: 190px;
+  width: 870px;
+  height: 325px;
+  top: 3052px;
+  left: 107px;
+  gap: 0px;
+  border-radius: 4px;
+  opacity: 0px;
+  background: #f9f8f7;
+}
+
+.wrapper__span {
+  transform: translateY(100px);
+  margin-left: -150px;
+  width: 126px;
+  height: 24px;
+  top: 3148px;
+  left: 139px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Manrope;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  color: #ff7a00;
+}
+
+.wrapper__head {
+  transform: translateY(100px);
+  margin-left: -150px;
+  width: 307px;
+  height: 22px;
+  top: 3196px;
+  left: 139px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Manrope;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 22px;
+  letter-spacing: -0.02em;
+  text-align: left;
+}
+
+.wrapper__text {
+  transform: translateY(100px);
+  margin-left: -150px;
+  width: 318px;
+  height: 72px;
+  top: 3242px;
+  left: 139px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Manrope;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  color: #81755c;
+}
+
+.yoshlar {
+  margin-left: 200px;
+  transform: translateY(-160px);
+}
+
+.abutech {
+  margin-left: 30px;
+  transform: translateY(-160px);
+}
+
+.Techjobs {
+  margin-left: 30px;
+  transform: translateY(-160px);
+}
+.kunuz {
+  margin-left: 30px;
+  transform: translateY(-160px);
+}
+
+.edu {
+  margin-left: 30px;
+  transform: translateY(-150px);
+}
+
+.Bolalar {
+  margin-left: -600px;
+  transform: translateY(-70px);
+ 
+}
+
+.Factor {
+  margin-left: 80px;
+  transform: translateY(-70px);
+
+}
+
+.Milat {
+  margin-left: 70px;
+  transform: translateY(-70px);
+
+}
+
+.Cembrij {
+  margin-left: 60px;
+  transform: translateY(-70px);
+
+}
+
+.Perfect {
+  margin-left: 70px;
+  transform: translateY(-70px);
+}
+
+.Dinay {
+  margin-left: 200px;
+  transform: translateY(-80px);
+}
+
+.Collage {
+  margin-left: 40px;
+  transform: translateY(-50px);
+}
+
+.University {
+    margin-left: 40px;
+    transform: translateY(-75px);
+  }
+
+  .fido {
+    margin-left: 40px;
+    transform: translateY(-75px);
+  }

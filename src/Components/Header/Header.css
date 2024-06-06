@@ -1,0 +1,143 @@
+.section1 {
+  max-width: 100%;
+  background-color: #fff;
+}
+
+.container {
+  width: 1440px;
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.header__section1 {
+  background-image: url(../../Assets/img/header.png);
+  background-repeat: no-repeat;
+  margin-left: 104px;
+}
+
+.header__logo {
+  margin-top: 32px;
+  margin-left: 62px;
+}
+
+.header__item {
+  display: flex;
+  margin-left: 830px;
+  gap: 40px;
+  margin-top: -30px;
+}
+
+.header__list {
+  color: black;
+  font-family: Manrope;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 21.86px;
+  letter-spacing: -0.02em;
+  text-align: left;
+}
+
+.header__button {
+  transform: translateY(-45px);
+  margin-left: 1080px;
+  width: Hug (90px) px;
+  height: Hug (40px) px;
+  top: 35px;
+  left: 1057px;
+  padding: 9px 24px 9px 24px;
+  gap: 10px;
+  border: 1px solid #e5e0d4;
+  border-radius: 100px;
+  background: #e5e0d4;
+}
+
+.header__text {
+  margin-left: 80px;
+  font-family: Manrope;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 21.86px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  width: 173px;
+  height: 22px;
+  top: 146px;
+  left: 83px;
+  color: #ba8d5b;
+}
+
+.header__head {
+  /* width: 407px; */
+  margin-left: 80px;
+  height: 224px;
+  top: 200px;
+  left: 83px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Manrope;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 56px;
+  letter-spacing: -0.02em;
+  text-align: left;
+}
+
+.header__head--span {
+  color: #ba8d5b;
+}
+
+.button__img{
+  transform: translateY(2px);
+}
+
+.header__text2 {
+  margin-left: 80px;
+  width: 255px;
+  height: 50px;
+  top: 456px;
+  left: 83px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Manrope;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 24.59px;
+  letter-spacing: -0.02em;
+  text-align: left;
+}
+
+.header__button2 {
+  margin-left: 80px;
+  margin-top: 20px;
+  color: aliceblue;
+  width: 212px;
+  height: 56px;
+  top: 546px;
+  left: 83px;
+  border: 1px solid #7ad111;
+  border-radius: 100px;
+  background: #7ad111;
+}
+
+.star {
+  margin-left: 320px;
+  transform: translateY(-35px);
+}
+
+.star__text {
+  margin-left: 30px;
+  transform: translateY(-40px);
+  width: 143px;
+  height: 22px;
+  top: 563px;
+  left: 351px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Manrope;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 21.86px;
+  letter-spacing: -0.02em;
+  text-align: left;
+}
